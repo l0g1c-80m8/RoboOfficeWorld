@@ -1,2 +1,7 @@
+#ignore files
+init_project.sh
+build.sh
+
 # ignore directories
 build/
+
